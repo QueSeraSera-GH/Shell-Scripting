@@ -1,4 +1,9 @@
+<<<<<<< Updated upstream
 # Shell-Scripting
+Test
+=======
+#shell scripting
+
 Topics are
 
 She-bang & Comments
@@ -14,3 +19,4 @@ UNIX -> SH, KSH, CSH
 LINUX -> BASH (Born Again Shell) [ SH + KSH + CSH ]
 
 BASH is default in all Linux OS.
+>>>>>>> Stashed changes
