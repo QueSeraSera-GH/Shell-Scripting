@@ -5,6 +5,6 @@ COURSE=DevOps
 echo Course Name = $COURSE
 
 
-DATES=$(date +%F)
+DATE=$(date +%F)
 
-echo "Good Morning, Today's date is $DATES"
+echo "Good Morning, Today's date is $DATE"
