@@ -4,6 +4,8 @@ COURSE=DevOps
 
 echo Course Name = $COURSE
 
+cal
+
 DATES=$(date +%F)
 
 echo "Good Morning, Today's date is $DATES"
