@@ -12,4 +12,4 @@ echo "Good Morning, Today's date is $DATE"
 num_users=$(who | wc -l)
 echo "There are $num_users currently logged in"
 
-cal 8 2021
+cal 8 2024
