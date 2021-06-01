@@ -4,7 +4,6 @@ COURSE=DevOps
 
 echo Course Name = $COURSE
 
-cal
 
 DATES=$(date +%F)
 
