@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-entry=$1
-if [-z "${entry}"]; then
-    echo "Component input is needed"
-    exit 1
+COMPONENT=$1
+if [ -z "${COMPONENT}" ]; then
+  echo "Component Input is Needed"
+  exit 1
 fi
