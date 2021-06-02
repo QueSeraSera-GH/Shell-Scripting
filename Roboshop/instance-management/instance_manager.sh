@@ -3,7 +3,7 @@
 COMPONENT=$1
 
 ## -z valdiates the input variable is empty; true if empty
-if [-z "${COMPONENT}"]; then
+if [ -z "${COMPONENT}" ]; then
     echo "Component input is needed"
     exit 1
 fi
