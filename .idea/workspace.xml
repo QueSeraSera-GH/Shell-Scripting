@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe26ebeb-7093-448a-8e20-a07daf89e008" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Roboshop/Components/cart.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Roboshop/Components/cart.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Roboshop/Components/frontend.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Roboshop/Components/frontend.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Roboshop/Components/mongodb.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Roboshop/Components/mongodb.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Roboshop/instance-management/instance_manager.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Roboshop/instance-management/instance_manager.sh" afterDir="false" />
-    </list>
+    <list default="true" id="fe26ebeb-7093-448a-8e20-a07daf89e008" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -309,7 +304,21 @@
       <option name="project" value="LOCAL" />
       <updated>1622678570920</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Updating multiple scripts">
+      <created>1623025499365</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1623025499365</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Updating multiple scripts">
+      <created>1623025620305</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1623025620305</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -341,7 +350,18 @@
     <MESSAGE value="Test message commit again" />
     <MESSAGE value="Test message commit again and again" />
     <MESSAGE value="Adding var.sh" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding var.sh" />
+    <MESSAGE value="Updating multiple scripts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating multiple scripts" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1489" y="87" key="CommitChangelistDialog2" timestamp="1623025619411">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1489" y="87" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1623025619411" />
+    <state x="-1368" y="252" key="Vcs.Push.Dialog.v2" timestamp="1623025629545">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="252" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1623025629545" />
   </component>
   <component name="masterDetails">
     <states>
