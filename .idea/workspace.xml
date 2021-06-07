@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe26ebeb-7093-448a-8e20-a07daf89e008" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Roboshop/Components/cart.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Roboshop/Components/cart.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Roboshop/Components/frontend.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Roboshop/Components/frontend.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Roboshop/Components/mongodb.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Roboshop/Components/mongodb.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Roboshop/instance-management/instance_manager.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Roboshop/instance-management/instance_manager.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tVzSiv18cIX5LYgousxgCHIQ7E" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1622697746215" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\olani\OneDrive\Documents\_Learning &amp; Personal Devlopment\Programming\Python\Shell-Scripting" />
+      <recent name="C:\Users\olani\OneDrive\Documents\_Learning &amp; Personal Devlopment\Programming\Python\Shell-Scripting\Roboshop" />
+      <recent name="C:\Users\olani\OneDrive\Documents\_Learning &amp; Personal Devlopment\Programming\Python\Shell-Scripting\Roboshop\Components" />
+      <recent name="C:\Users\olani\OneDrive\Documents\_Learning &amp; Personal Devlopment\Programming\Python\Shell-Scripting\Roboshop\instance-management" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe26ebeb-7093-448a-8e20-a07daf89e008" name="Default Changelist" comment="" />
+      <created>1622495992244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622495992244</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added the sample.txt file for demonstration of adding files">
+      <created>1622496243708</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622496243708</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added the sample.txt file for demonstration of adding files">
+      <created>1622502140529</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622502140529</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added the sample.txt file for demonstration of adding files">
+      <created>1622502463644</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622502463645</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added the sample.txt file for demonstration of adding files">
+      <created>1622502543116</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622502543116</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added the sample.txt file for demonstration of adding files">
+      <created>1622502635148</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622502635148</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added the sample.txt file for demonstration of adding files">
+      <created>1622503280614</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622503280614</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added the sample.txt file for demonstration of adding files">
+      <created>1622505486605</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622505486606</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added the sample.txt file for demonstration of adding files">
+      <created>1622506017428</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1622506017428</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Test message commit">
+      <created>1622506182224</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1622506182224</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Test message commit">
+      <created>1622506425218</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1622506425218</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Test message commit again">
+      <created>1622506759838</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1622506759838</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Test message commit again and again">
+      <created>1622507175523</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1622507175523</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Test message commit again and again">
+      <created>1622509980226</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1622509980226</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Test message commit again and again">
+      <created>1622510606788</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1622510606788</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Test message commit again and again">
+      <created>1622512338084</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1622512338084</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Test message commit again and again">
+      <created>1622512435317</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1622512435317</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Adding var.sh">
+      <created>1622530054294</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1622530054294</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Adding var.sh">
+      <created>1622530222890</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1622530222890</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Adding var.sh">
+      <created>1622530322403</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1622530322403</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Adding var.sh">
+      <created>1622530411535</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1622530411535</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Adding var.sh">
+      <created>1622531280410</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1622531280410</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Adding var.sh">
+      <created>1622531690438</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1622531690438</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Adding var.sh">
+      <created>1622532388792</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1622532388792</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Adding var.sh">
+      <created>1622532644942</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1622532644943</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Adding var.sh">
+      <created>1622533159429</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1622533159429</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Adding var.sh">
+      <created>1622533204948</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1622533204948</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Adding var.sh">
+      <created>1622533300649</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1622533300649</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Adding var.sh">
+      <created>1622533503881</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1622533503881</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Adding var.sh">
+      <created>1622676807729</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1622676807729</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Adding var.sh">
+      <created>1622677130962</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1622677130962</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Adding var.sh">
+      <created>1622677321380</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1622677321380</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Adding var.sh">
+      <created>1622677333395</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1622677333395</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Adding var.sh">
+      <created>1622677703070</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1622677703070</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Adding var.sh">
+      <created>1622677785025</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1622677785025</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Adding var.sh">
+      <created>1622678298973</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1622678298973</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Adding var.sh">
+      <created>1622678475802</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1622678475802</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Adding var.sh">
+      <created>1622678570920</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1622678570920</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="BEK_SORT_TYPE" value="1" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added the sample.txt file for demonstration of adding files" />
+    <MESSAGE value="Test message commit" />
+    <MESSAGE value="Test message commit again" />
+    <MESSAGE value="Test message commit again and again" />
+    <MESSAGE value="Adding var.sh" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding var.sh" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 (Python3.7)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Python 3.7 (Python3.7)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
